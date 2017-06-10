@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y\ id\ handler
+comment0.target=Player(int,\ int,\ ID,\ Handler)
+comment1.params=x\ y\ handler
+comment1.target=Player(int,\ int,\ Handler)
+comment2.params=
+comment2.target=double\ getHealth()
+comment3.params=
+comment3.target=long\ getScore()
+comment4.params=
+comment4.target=int\ getSpeed()
+comment5.params=
+comment5.target=int\ getDef()
+comment6.params=delta
+comment6.target=void\ changeScore(int)
+comment7.params=
+comment7.target=void\ tick()
+comment8.params=g
+comment8.target=void\ render(java.awt.Graphics)
+comment9.params=
+comment9.target=java.awt.Rectangle\ getBounds()
+numComments=10

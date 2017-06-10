@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ id\ handler
+comment0.target=BasicEnemy(int,\ int,\ ID,\ Handler)
+comment1.params=x\ y\ handler
+comment1.target=BasicEnemy(int,\ int,\ Handler)
+comment2.params=
+comment2.target=int\ getNumBasicEnemies()
+comment3.params=
+comment3.target=void\ tick()
+comment4.params=g
+comment4.target=void\ render(java.awt.Graphics)
+comment5.params=
+comment5.target=java.awt.Rectangle\ getBounds()
+numComments=6

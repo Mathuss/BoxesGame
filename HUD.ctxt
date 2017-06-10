@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=player
+comment0.target=HUD(Player)
+comment1.params=
+comment1.target=void\ tick()
+comment2.params=g
+comment2.target=void\ render(java.awt.Graphics)
+numComments=3

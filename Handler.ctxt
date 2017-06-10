@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ tick()
+comment0.text=Linked\ List\ Slow\ for\ accessing\ random\ elements,\ O(n)\ vs\ O(1)\ for\ ArrayList\r\nFast\ for\ removal/insertion\ of\ elements,\ O(1)\ vs\ O(n)\ "\ "
+comment1.params=g
+comment1.target=void\ render(java.awt.Graphics)
+comment2.params=object
+comment2.target=void\ addObject(GameObject)
+comment3.params=object
+comment3.target=void\ removeObject(GameObject)
+comment4.params=id
+comment4.target=void\ removeObject(ID)
+comment5.params=
+comment5.target=Player\ getPlayer()
+numComments=6

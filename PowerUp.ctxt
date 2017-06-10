@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ id\ handler
+comment0.target=PowerUp(int,\ int,\ ID,\ Handler)
+comment1.params=x\ y\ handler
+comment1.target=PowerUp(int,\ int,\ Handler)
+comment2.params=
+comment2.target=short\ getNumPowerUps()
+comment3.params=delta
+comment3.target=void\ changeNumPowerUps(short)
+comment4.params=
+comment4.target=void\ tick()
+comment5.params=g
+comment5.target=void\ render(java.awt.Graphics)
+comment6.params=
+comment6.target=java.awt.Rectangle\ getBounds()
+numComments=7
